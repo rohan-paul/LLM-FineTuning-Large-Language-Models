@@ -4,7 +4,7 @@
 
 ## For almost all of these I have detailed video in my [YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
 
-[yt_cover]: /assets/Youtube_Cover.jpg
+[yt_cover]: /assets/Youtube_Cover.png
 
 [![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos)
 
