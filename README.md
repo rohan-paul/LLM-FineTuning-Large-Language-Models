@@ -27,7 +27,7 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=fEzuBFi35J4&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=11&ab_channel=Rohan-Paul-AI) [Falcon finetuning on openassistant-guanaco](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Falcon-7B_FineTuning_with_PEFT_and_QLORA.ipynb)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI) [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/LLMs/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI) [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb)
 
 
 ---------------------------
