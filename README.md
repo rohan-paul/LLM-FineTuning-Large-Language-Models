@@ -72,7 +72,7 @@
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=HDSNjrxSwqw&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=14) [Text Summarization with Transformer - BART + T5 + Pegasus
   ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Text_Summarization_%20BART%20_T5_Pegasus.ipynb)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=oxEXBJQG27A&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=13) [Debarta-v3-large model fine tuning for Kaggle Competition Feedback-Prize | NLP](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/debarta-v3-large-For_Kaggle_Competition_Feedback-Prize/debarta-v3-large-For_Kaggle_Competition_Feedback-Prize.ipynb)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=oxEXBJQG27A&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=13) [Debarta-v3-large model fine tuning for Kaggle Competition Feedback-Prize | NLP](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Other-Language_Models_BERT_related/Deberta-v3-large-For_Kaggle_Competition_Feedback-Prize/deberta-v3-large-For_Kaggle_Competition_Feedback-Prize.ipynb)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=SmWbKiueYVU&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=12) [Topic Modeling with BERT and Automatic Cluster Labeling](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Topic_Modeling_with_BERT_and_Automatic_cluster_labeling/Topic_Modeling.ipynb)
 
