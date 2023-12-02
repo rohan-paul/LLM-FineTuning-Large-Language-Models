@@ -59,7 +59,7 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=30zPz5Xz-8g&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=21) [Understanding BERT Embeddings and Tokenization | NLP | HuggingFace](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Understing_BERT_Embedding_Vector)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=fl0ow-nD8FM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=20) [Topic Modeling with BERTopic | arxiv-abstract dataset](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Topic-modeling-with-bertopic-arxiv-abstract)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=fl0ow-nD8FM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=20) [Topic Modeling with BERTopic | arxiv-abstract dataset](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Topic-modeling-with-bertopic-arxiv-abstract)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=vrDdnQfav0s&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=21) [Latent Dirichlet Allocation (LDA) for Topic Modeling](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Topic_Modeling_with_LDA.ipynb)
 
@@ -101,7 +101,7 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=TxTxWAohW7E&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=5) [Named Entity Recognition NER using spaCy - Extracting Subject Verb Action](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Named_Entity_Recognition_NER_using_spaCy%20-%20Extracting_Subject_Verb_Action.ipynb)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=zcW2HouIIQg&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=5) [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://bit.ly/3QvJ5UH)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=zcW2HouIIQg&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=5) [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Other-Language_Models_BERT_related/Fine_Tuning_DistilBert_Poem_Sentiments.ipynb)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=0Y03waAL4Gw&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=4) [Fine Tuning BERT-Based-Uncased Hugging Face Model on Kaggle Hate Speech Dataset](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/bert-base-uncased-fine-tuned-kaggle-hate-speech-dataset.ipynb)
 
