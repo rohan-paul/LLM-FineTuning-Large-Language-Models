@@ -21,6 +21,8 @@
 
 [logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=RYTOQERqVsg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=14&ab_channel=Rohan-Paul-AI) [Inference Yarn-Llama-2-13b-128k with KV Cache to answer quiz on very long textbook](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Inference_Yarn-Llama-2-13b-128k_Github.ipynb)
+
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=6DGYj1EEWOw&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=13&ab_channel=Rohan-Paul-AI) [Mistral 7B FineTuning with_PEFT and QLORA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_FineTuning_with_PEFT_and_QLORA.ipynb)
 
