@@ -39,7 +39,7 @@
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=-rqmj_tfQLo&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=34&ab_channel=Rohan-Paul-AI) [DeBERTa Fine Tuning for Amazon Review Dataset Pytorch](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/DeBERTa%20Fine%20Tuning-for%20Amazon%20Review%20Dataset%20Pytorch.ipynb)
 
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=4nNbg4bWDrQ&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=32&ab_channel=Rohan-Paul-AI) [FineTuning BERT for Multi-Class Classification on custom Dataset](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/FineTuning_BERT_for_Multi_Class_Classification_Turkish)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=4nNbg4bWDrQ&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=32&ab_channel=Rohan-Paul-AI) [FineTuning BERT for Multi-Class Classification on custom Dataset](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/FineTuning_BERT_for_Multi_Class_Classification_Turkish)
 
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=91msLyGC-LI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=28&ab_channel=Rohan-Paul-AI) [Document STRIDE when Tokenizing with HuggingFace Transformer for NLP Projects](https://www.youtube.com/watch?v=91msLyGC-LI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=28&ab_channel=Rohan-Paul-AI)
@@ -49,15 +49,15 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=pqpaHeCsuVI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=30&ab_channel=Rohan-Paul-AI) [Cerebras-GPT New Large Language Model Open Sourced with Apache 2.0 License](https://www.youtube.com/watch?v=pqpaHeCsuVI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=30&ab_channel=Rohan-Paul-AI)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=6X0xfXMKCjM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=29&ab_channel=Rohan-Paul-AI) [Roberta-Large Named Entity Recognizition on Kaggle NLP Competition with PyTorch](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Roberta-Large-NER-on-Kaggle-NLP%20Competition)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=6X0xfXMKCjM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=29&ab_channel=Rohan-Paul-AI) [Roberta-Large Named Entity Recognizition on Kaggle NLP Competition with PyTorch](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Roberta-Large-NER-on-Kaggle-NLP%20Competition)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=EHtHF9Kvm0Y&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=28&ab_channel=Rohan-Paul-AI) [Longformer end to end with Kaggle NLP competition](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Longformer%20end%20to%20end%20with%20Kaggle%20NLP%20competition)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=EHtHF9Kvm0Y&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=28&ab_channel=Rohan-Paul-AI) [Longformer end to end with Kaggle NLP competition](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Longformer%20end%20to%20end%20with%20Kaggle%20NLP%20competition)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=tvdIF1FU7fg&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=24) [Zero Shot Multilingual Sentiment Classification with PyTorch Lightning](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/zero_shot_multilingual_sentiment_classification_with_USEm)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=tvdIF1FU7fg&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=24) [Zero Shot Multilingual Sentiment Classification with PyTorch Lightning](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/zero_shot_multilingual_sentiment_classification_with_USEm)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=CwLPglxw1WA&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=23) [Fine Tuning Transformer (BERT) for Customer Review Prediction | NLP | HuggingFace ](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Fine_Tuning_HuggingFace_Transformer_BERT_Yelp_Customer_Review_Predictions)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=CwLPglxw1WA&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=23) [Fine Tuning Transformer (BERT) for Customer Review Prediction | NLP | HuggingFace ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Fine_Tuning_HuggingFace_Transformer_BERT_Yelp_Customer_Review_Predictions)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=30zPz5Xz-8g&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=21) [Understanding BERT Embeddings and Tokenization | NLP | HuggingFace](https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/tree/master/NLP/Understing_BERT_Embedding_Vector)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=30zPz5Xz-8g&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=21) [Understanding BERT Embeddings and Tokenization | NLP | HuggingFace](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Understing_BERT_Embedding_Vector)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=fl0ow-nD8FM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=20) [Topic Modeling with BERTopic | arxiv-abstract dataset](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Topic-modeling-with-bertopic-arxiv-abstract)
 
