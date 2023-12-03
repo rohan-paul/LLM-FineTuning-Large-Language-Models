@@ -80,8 +80,7 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=Ua_ToM-CG5Q&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=11) [Decoding strategies while generating text with GPT-2](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Decoding_Strategies_for_text_generation/Decoding_Strategies_for_text_generation.ipynb)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=VrJwKdls6d4&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=12) [Fake News Classification with LSTM and Tensorflow
-  ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Fake_News_Classification_with_LSTM_Tensorflow.ipynb)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=VrJwKdls6d4&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=12) [Fake News Classification with LSTM and Tensorflow](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Fake_News_Classification_with_LSTM_Tensorflow.ipynb)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=hgg2GAgDLzA&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=11) [FinBERT Sentiment Analysis for very Long Text (more than 512 Tokens) | PART 2](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/FinBERT_Long_Text_Part_2.ipynb)
 
