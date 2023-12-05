@@ -21,6 +21,8 @@
 
 [logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=815NpXvniIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&ab_channel=Rohan-Paul-AI) [CodeLLaMA-34B - Conversational Agent | Large Language Models](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/CodeLLaMA_34B_Conversation_with_Streamlit.py)
+
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=RYTOQERqVsg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=14&ab_channel=Rohan-Paul-AI) [Inference Yarn-Llama-2-13b-128k with KV Cache to answer quiz on very long textbook](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Inference_Yarn-Llama-2-13b-128k_Github.ipynb)
 
 
