@@ -182,3 +182,38 @@ def generate_and_append_response(user_input):
 # Run the application
 if __name__ == "__main__":
     main()
+
+
+"""
+#####################################################
+## `st.session_state`
+#####################################################
+
+📌 `st.session_state` in Streamlit is a powerful feature that allows you to maintain state across user interactions. When a Streamlit app is running, each user interaction, like clicking a button or entering text, typically causes the whole script to re-run. This can lead to a loss of state - for example, all variables are reset. `st.session_state` solves this problem by providing a way to store and persist values across reruns.
+
+📌 Each `st.session_state` is unique to a user session. It behaves like a Python dictionary and can store any kind of Python object. You can set key-value pairs in this state, read them, and update them. This enables the app to remember information like user inputs, the state of interactions, or any other data that should persist across reruns.
+
+📌 Here in this code, `st.session_state` is used to store the conversation history in a chat application. Every time a user enters a message, it's appended to the `messages` list in `st.session_state`. This list then persists across reruns, allowing the app to maintain the context of the conversation and display the entire chat history.
+
+--------------
+
+##############################################
+## `thread = Thread(target=model.generate, kwargs=generation_kwargs)`
+##############################################
+
+The `target` parameter specifies the callable object to be invoked by the `run()` method of the thread.
+
+In Python, multithreading allows multiple parts of a program to run concurrently. Each thread runs independently and can execute different parts of the code simultaneously.
+
+When you create a new thread, you need to specify the function it will execute. This is where the `target` parameter is used.
+
+The `target` parameter in the `Thread` class specifies the function that the thread will execute. So, `target=model.generate` means that the `generate` method of the `model` object will be run in a separate thread.
+
+When the thread is started using `thread.start()`, the `run()` method of the thread is called. This method, in turn, calls the function specified in the `target` parameter, in this case, `model.generate`.
+
+The arguments required by `model.generate` are passed through the `kwargs` parameter, ensuring that the method has all the necessary information to execute properly.
+
+Without multithreading, calling `model.generate` directly in the main thread would block the entire execution of the program until the text generation is complete. This would make the Streamlit app unresponsive.
+
+
+"""
