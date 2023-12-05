@@ -34,6 +34,9 @@
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI) [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb)
 
 
+- [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)
+
+
 ---------------------------
 
 ## Other Language Models (Which are technically NOT LLM )
