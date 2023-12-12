@@ -36,7 +36,7 @@
 
 - [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)
 
-- [Fine-tune opt-6.7b with QLoRA while keeping some of the Model layers at full-precision of float32](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_opt_bnb_peft.ipynb)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=gNSw9JwGv4w&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&t=486s&ab_channel=Rohan-Paul-AI) [Fine-tune opt-6.7b with QLoRA while keeping some of the Model layers at full-precision of float32](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_opt_bnb_peft.ipynb)
 
 
 ---------------------------
