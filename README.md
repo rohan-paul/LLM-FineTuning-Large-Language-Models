@@ -38,6 +38,8 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=gNSw9JwGv4w&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&t=486s&ab_channel=Rohan-Paul-AI) [Fine-tune opt-6.7b with QLoRA while keeping some of the Model layers at full-precision of float32](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_opt_bnb_peft.ipynb)
 
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=QAY82UvrsHg&list=PLxqBkZuBynVTiTEvP6-GYf35yA6OqIN7Y&index=2&ab_channel=Rohan-Paul-AI) [Web scraping with Large Language Models (LLM)-AnthropicAI + LangChainAI](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Web%20scraping%20with%20Large%20Language%20Models%20(LLM)-AnthropicAI%20%2B%20LangChainAI.ipynb)
+
 
 ---------------------------
 
