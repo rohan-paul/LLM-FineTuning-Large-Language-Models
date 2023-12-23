@@ -49,7 +49,7 @@ def model_loading_pipeline():
     )
     return pipeline, streamer
 
-def launch_ui(pipeline, streamer):
+def launch_gradio_app(pipeline, streamer):
     with gr.Blocks() as demo:
         chatbot = gr.Chatbot()
         msg = gr.Textbox()
@@ -78,6 +78,6 @@ def launch_ui(pipeline, streamer):
 
 if __name__ == '__main__':
     pipeline, streamer = model_loading_pipeline()
-    launch_ui(pipeline, streamer)
+    launch_gradio_app(pipeline, streamer)
 
 # Run the entire app with `python run_mixtral.py`
