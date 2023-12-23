@@ -41,6 +41,9 @@
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=QAY82UvrsHg&list=PLxqBkZuBynVTiTEvP6-GYf35yA6OqIN7Y&index=2&ab_channel=Rohan-Paul-AI) [Web scraping with Large Language Models (LLM)-AnthropicAI + LangChainAI](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Web%20scraping%20with%20Large%20Language%20Models%20(LLM)-AnthropicAI%20%2B%20LangChainAI.ipynb)
 
 
+- [Mixtral_Chatbot_with_Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)
+
+
 ---------------------------
 
 ## Other Language Models (Which are technically NOT LLM )
