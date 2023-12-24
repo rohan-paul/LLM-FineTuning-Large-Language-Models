@@ -1,5 +1,7 @@
 #######################################################
+
 🦙 `apply_chat_template` in HuggingFace is just great. 🔥🚀
+
 #######################################################
 
 📌 Why templates? ❓
@@ -11,7 +13,9 @@ Chat models have been trained with very different formats for converting convers
 So, `apply_chat_template` attribute can be used to save the chat format the model was trained with. This attribute contains a Jinja template that converts conversation histories into a correctly formatted string.
 
 #######################################################
-### Structure of the `history` Variable
+
+Structure of the `history` Variable
+
 #######################################################
 
 📌 The history variable in your script is structured as a list of dialogue pairs, where each pair consists of a user's message and the assistant's response. It's a sequential record of the conversation. Here is an example of its structure in JSON format:
@@ -59,7 +63,7 @@ The conditional `(if dialog[i % 2])` ensures that messages that are None (like t
 In a typical conversation history, the latest response from the assistant might not exist yet (i.e., it's None) because the user just sent a message and the assistant hasn't replied yet. This check ensures that such None values are not included in the formatted output, as they don't represent actual messages and would not be meaningful input for the model.
 
 #######################################################
-## format_chat_history(history)
+ `format_chat_history(history)`
 #######################################################
 
 **Input Structure**: The function expects `history` as an input, which is a list of dialogues. Each dialogue in the history is a tuple with two elements: the first element is the user's instruction, and the second is the assistant's response. The most recent dialogue will have `None` as the response since it's the current user query awaiting a response.
