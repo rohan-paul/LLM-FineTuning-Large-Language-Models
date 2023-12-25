@@ -12,10 +12,6 @@
 - 🟠 YouTube: https://www.youtube.com/@RohanPaul-AI/featured
 - 👨🏻‍💼 LINKEDIN: https://www.linkedin.com/in/rohan-paul-b27285129/
 - ​👨‍🔧​ KAGGLE: https://www.kaggle.com/paulrohan2020
-- 👨‍💻 GITHUB: https://github.com/rohan-paul
-- 🤖 Substack : https://rohanpaul.substack.com/
-- 🧑‍🦰 FACEBOOK: https://www.facebook.com/rohanpaulai
-- 📸 INSTAGRAM: https://www.instagram.com/rohan_paul_2020/
 
 ---
 
