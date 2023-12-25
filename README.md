@@ -40,6 +40,9 @@
 - [Mixtral_Chatbot_with_Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)
 
 
+- [togetherai-api-with_Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)
+
+
 ---------------------------
 
 ## Other Language Models (Which are technically NOT LLM )
