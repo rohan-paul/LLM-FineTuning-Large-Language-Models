@@ -39,8 +39,9 @@
 
 - [Mixtral Chatbot with Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)
 
-
 - [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)
+
+- [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)
 
 
 ---------------------------
