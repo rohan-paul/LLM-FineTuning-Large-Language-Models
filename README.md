@@ -17,7 +17,7 @@
 
 [logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
-### Fine-tuning
+### Fine-tuning LLM (and YouTube Video Explanations)
 
 | Notebook | YouTube_Video |
 | -------- | ------------- |
@@ -43,7 +43,7 @@
 
 ---------------------------
 
-## Other Language Models (Which are technically NOT LLM )
+## Other Smaller Language Models
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=-rqmj_tfQLo&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=34&ab_channel=Rohan-Paul-AI) [DeBERTa Fine Tuning for Amazon Review Dataset Pytorch](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/DeBERTa%20Fine%20Tuning-for%20Amazon%20Review%20Dataset%20Pytorch.ipynb)
 
