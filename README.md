@@ -17,22 +17,17 @@
 
 [logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=815NpXvniIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&ab_channel=Rohan-Paul-AI) [CodeLLaMA-34B - Conversational Agent | Large Language Models](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/CodeLLaMA_34B_Conversation_with_Streamlit.py)
+### Fine-tuning
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=RYTOQERqVsg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=14&ab_channel=Rohan-Paul-AI) [Inference Yarn-Llama-2-13b-128k with KV Cache to answer quiz on very long textbook](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Inference_Yarn-Llama-2-13b-128k_Github.ipynb)
+| Notebook | YouTube_Video |
+| -------- | ------------- |
+| [CodeLLaMA-34B - Conversational Agent ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/CodeLLaMA_34B_Conversation_with_Streamlit.py)                                              | [![Youtube Link][logo]](https://www.youtube.com/watch?v=815NpXvniIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&ab_channel=Rohan-Paul-AI) |
+| [Inference Yarn-Llama-2-13b-128k with KV Cache to answer quiz on very long textbook](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Inference_Yarn-Llama-2-13b-128k_Github.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=RYTOQERqVsg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=14&ab_channel=Rohan-Paul-AI)|
+| [Mistral 7B FineTuning with_PEFT and QLORA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_FineTuning_with_PEFT_and_QLORA.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=6DGYj1EEWOw&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=13&ab_channel=Rohan-Paul-AI)|
+| [Falcon finetuning on openassistant-guanaco](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Falcon-7B_FineTuning_with_PEFT_and_QLORA.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=fEzuBFi35J4&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=11&ab_channel=Rohan-Paul-AI)|
+| [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI)|
+| [Web scraping with Large Language Models (LLM)-AnthropicAI + LangChainAI](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Web%20scraping%20with%20Large%20Language%20Models%20(LLM)-AnthropicAI%20%2B%20LangChainAI.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=QAY82UvrsHg&list=PLxqBkZuBynVTiTEvP6-GYf35yA6OqIN7Y&index=2&ab_channel=Rohan-Paul-AI)|
 
-
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=6DGYj1EEWOw&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=13&ab_channel=Rohan-Paul-AI) [Mistral 7B FineTuning with_PEFT and QLORA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_FineTuning_with_PEFT_and_QLORA.ipynb)
-
-
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=fEzuBFi35J4&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=11&ab_channel=Rohan-Paul-AI) [Falcon finetuning on openassistant-guanaco](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Falcon-7B_FineTuning_with_PEFT_and_QLORA.ipynb)
-
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=J0RbOtLrJhQ&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=10&ab_channel=Rohan-Paul-AI) [Fine Tuning Phi 1_5 with PEFT and QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/FineTuning_phi-1_5_with_PRFT_LoRA.ipynb)
-
-
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=gNSw9JwGv4w&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&t=486s&ab_channel=Rohan-Paul-AI) [Fine-tune opt-6.7b with QLoRA while keeping some of the Model layers at full-precision of float32](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_opt_bnb_peft.ipynb)
-
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=QAY82UvrsHg&list=PLxqBkZuBynVTiTEvP6-GYf35yA6OqIN7Y&index=2&ab_channel=Rohan-Paul-AI) [Web scraping with Large Language Models (LLM)-AnthropicAI + LangChainAI](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Web%20scraping%20with%20Large%20Language%20Models%20(LLM)-AnthropicAI%20%2B%20LangChainAI.ipynb)
 
 ---------------------------
 
@@ -43,6 +38,7 @@
 📌 [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)
 
 📌  [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)
+
 
 
 ---------------------------
