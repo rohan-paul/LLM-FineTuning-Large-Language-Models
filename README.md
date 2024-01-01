@@ -35,11 +35,10 @@
 
 | Notebook | Colab |
 | -------- | ------------- |
-| 📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)|
-| 📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)|
+| 📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mixtral Chatbot with Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)|
-| 📌 [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)|
-| 📌 [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)|
+| 📌 [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+| 📌 [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mistral-7B-Instruct_GPTQ - Finetune on finance-alpaca dataset 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral-7B-Instruct_GPTQ-finetune.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7B_Instruct_GPTQ_finetune.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
