@@ -48,7 +48,9 @@
 
 ### LLM Techniques and utils - Explained
 
-
+| LLM Concepts |
+| -------- |
+| 📌 [DPO (Direct Preference Optimization) training and its datasets](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/DPOTrainer.ipynb)|
 
 ---------------------------
 
