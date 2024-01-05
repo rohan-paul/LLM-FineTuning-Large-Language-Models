@@ -1,17 +1,3 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
-# Below for all Kaggle and Other Dataset, as they will all be inside input
-# On 22-April, have put all the data inside input
-input/
-*input
-/*input
-*/*input
-**/*input
-/input
-/input/*
-*/input/*
-
-
 .vscode/
 *.vscode
 /*.vscode
@@ -21,34 +7,10 @@ input/
 /.vscode/*
 */.vscode/*
 
-input_dataset/
-*input_dataset
-/*input_dataset
-*/*input_dataset
-**/*input_dataset
-/input_dataset
-/input_dataset/*
-*/input_dataset/*
-
-
-*input_dataset_2
-/*input_dataset_2
-*/*input_dataset_2
-**/*input_dataset_2
-/input_dataset_2
-/input_dataset_2/*
-*/input_dataset_2/*
-
-# ABOVE ONLY FOR THIS REPO AS I KEPT ALL DATASET UNDER THE ABOVE FOLDER NAME
-
 node_modules/
 Colab_Model_Download/
 wandb/
 mlruns
-# The above is the MOST EFFECTIVE ONE as per
-# https://stackoverflow.com/a/1470664/1902852
-# The way to ignore all directories called "node_modules"
-# anywhere below the current level in a directory tree
 
 # Further if I have already pushed a directory to remote then remove that with below
 # Execute a folder remove (rm) from index only (--cached) recursivelly (-r). Command line example for root bin folder:
@@ -61,19 +23,12 @@ mlruns
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 HF_Models/
-
 *HF_Models
 /*HF_Models
 */*HF_Models
 **/*HF_Models
 /HF_Models
 /HF_Models/*
-
-node_modules/
-# The above is the MOST EFFECTIVE ONE as per
-# https://stackoverflow.com/a/1470664/1902852
-# The way to ignore all directories called "node_modules"
-# anywhere below the current level in a directory tree
 
 *node_modules
 /*node_modules
@@ -83,8 +38,8 @@ node_modules/
 /node_modules/*
 */node_modules/*in
 
-# If you have performed a task, such as adding a new line item to your .gitignore file, I MUST need to clear out your git repo's cache in order for the changes to take place. Here are the commands for doing that:
-
+# If you have performed a task, such as adding a new line item to your .gitignore file,
+# I MUST need to clear out your git repo's cache in order for the changes to take place. Here are the commands for doing that:
 # git rm -r --cached . && git add . && git commit -am 'git cache cleared' && git push
 
 __MACOSX/
@@ -291,21 +246,6 @@ glove_vectors
 **/*.gz
 /.gz
 
-
-# Commenting out all .png files as I would need them for image pasting in .md files / notes
-#.png/
-#*.png
-#/*.png
-#*/*.png
-#**/*.png
-#/.png
-
-*.jpeg
-/*.jpeg
-*/*.jpeg
-**/*.jpeg
-/.jpeg
-
 *.rar
 /*.rar
 */*.rar
@@ -353,22 +293,6 @@ glove_vectors
 */*.nii
 **/*.nii
 /.nii
-
-LARGE_Datasets
-*/LARGE_Datasets
-*/LARGE_Datasets/**
-**/LARGE_Datasets/**
-
-/Others_Code_gitignore
-/Others_Code_gitignore/*
-*/Others_Code_gitignore/*
-
-/YouTube_Experiments_Scripts
-/YouTube_Experiments_Scripts/*
-*/YouTube_Experiments_Scripts/*
-
-# *** END OF FILES SPECIFIC TO ML Projects ****
-
 
 # misc
 DS_Store/
