@@ -114,7 +114,7 @@ def prepare_lora_model(args):
     model = AutoModelForCausalLM.from_pretrained(
         args.model_name,
         device_map=device_map,
-        quantization_config= GPTQConfig(bits=4, use_exllama=True)
+        quantization_config= GPTQConfig(bits=4, use_exllama=False)
     )
 
     # check: https://github.com/huggingface/transformers/pull/24906
