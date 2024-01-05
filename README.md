@@ -41,6 +41,7 @@
 | 📌 [Integrating TogetherAI with LangChain 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TogetherAI_API_with_LangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mistral-7B-Instruct_GPTQ - Finetune on finance-alpaca dataset 🦙](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral-7B-Instruct_GPTQ-finetune.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7B_Instruct_GPTQ_finetune.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mistral 7b FineTuning with DPO Direct_Preference_Optimization](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7b_FineTuning_with_DPO_Direct_Preference_Optimization.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7b_FineTuning_with_DPO_Direct_Preference_Optimization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+| 📌 [Finetune llama_2_GPTQ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_llama_2_GPTQ)
 
 
 
