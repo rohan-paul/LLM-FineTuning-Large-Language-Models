@@ -54,6 +54,7 @@
 | 📌 [DPO (Direct Preference Optimization) training and its datasets](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/DPOTrainer.ipynb)|
 | 📌 [4-bit LLM Quantization with GPTQ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/4-bit_LLM_Quantization_with_GPTQ.ipynb)|
 | 📌 [Quantize with HF Transformers](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Quantize_with_HF_transformers)|
+| 📌 [Understanding rank r in LoRA and related Matrix_Math](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Understanding_rank_r_in_LoRA_and_related_Matrix_Math)|
 
 ---------------------------
 
