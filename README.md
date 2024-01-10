@@ -57,6 +57,7 @@
 | 📌 [4-bit LLM Quantization with GPTQ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/4-bit_LLM_Quantization_with_GPTQ.ipynb)|
 | 📌 [Quantize with HF Transformers](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Quantize_with_HF_transformers)|
 | 📌 [Understanding rank r in LoRA and related Matrix_Math](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Understanding_rank_r_in_LoRA_and_related_Matrix_Math.ipynb)|
+| 📌 [Rotary Embeddings (RopE) is one of the Fundamental Building Blocks of LlaMA-2 Implementation](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/RoPE-As-Implemented-in-LlaMa-Source-Code.ipynb)|
 
 ---------------------------
 
