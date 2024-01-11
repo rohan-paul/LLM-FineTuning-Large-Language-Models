@@ -76,7 +76,7 @@
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=pqpaHeCsuVI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=30&ab_channel=Rohan-Paul-AI) [Cerebras-GPT New Large Language Model Open Sourced with Apache 2.0 License](https://www.youtube.com/watch?v=pqpaHeCsuVI&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=30&ab_channel=Rohan-Paul-AI)
 
-- [![Youtube Link][logo]](https://www.youtube.com/watch?v=6X0xfXMKCjM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=29&ab_channel=Rohan-Paul-AI) [Roberta-Large Named Entity Recognizition on Kaggle NLP Competition with PyTorch](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Roberta-Large-NER-on-Kaggle-NLP%20Competition)
+- [![Youtube Link][logo]](https://www.youtube.com/watch?v=6X0xfXMKCjM&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N&index=29&ab_channel=Rohan-Paul-AI) [Roberta-Large Named Entity Recognition on Kaggle NLP Competition with PyTorch](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Roberta-Large-NER-on-Kaggle-NLP%20Competition)
 
 - [![Youtube Link][logo]](https://www.youtube.com/watch?v=EHtHF9Kvm0Y&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK&index=28&ab_channel=Rohan-Paul-AI) [Longformer end to end with Kaggle NLP competition](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main/Other-Language_Models_BERT_related/Longformer%20end%20to%20end%20with%20Kaggle%20NLP%20competition)
 
