@@ -43,6 +43,7 @@
 | 📌 [Mistral 7b FineTuning with DPO Direct_Preference_Optimization](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7b_FineTuning_with_DPO_Direct_Preference_Optimization.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_7b_FineTuning_with_DPO_Direct_Preference_Optimization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Finetune llama_2_GPTQ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_llama_2_GPTQ)
 | 📌 [TinyLlama with Unsloth and_RoPE_Scaling dolly-15 dataset](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TinyLlama_with_Unsloth_and_RoPE_Scaling_dolly-15k.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/TinyLlama_with_Unsloth_and_RoPE_Scaling_dolly-15k.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+| 📌 [Tinyllama fine-tuning with Taylor_Swift Song lyrics](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/tinyllama_fine-tuning_Taylor_Swift.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/tinyllama_fine-tuning_Taylor_Swift.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
