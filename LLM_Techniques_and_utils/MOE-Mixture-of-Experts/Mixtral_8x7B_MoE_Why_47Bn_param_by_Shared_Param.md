@@ -22,9 +22,9 @@ C) Also note, while there are Inferencing services, that achieved an FP8 impleme
 ![](assets/2024-01-03-14-29-15.png)
 
 
-#######################################3333
+---------------------------
 
-From Mixtral 8x7B paper - The 8 Experts
+## From Mixtral 8x7B paper - The 8 Experts
 
 📌 Mixtral 8x7B consists of 8 feedforward blocks (experts) in each layer. A router network dynamically selects two experts for each token at each layer, allowing access to 47 billion parameters while only actively using 13 billion during inference.
 
