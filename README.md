@@ -1,8 +1,6 @@
 # LLM (Large Language Models) FineTuning Projects and notes on common practical techniques
 
-[yt_cover]: /assets/devil2.png
-
-[![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos)
+![](/assets/devil2.png)
 
 ### Find me here..
 
