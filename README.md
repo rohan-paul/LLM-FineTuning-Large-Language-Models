@@ -57,6 +57,7 @@
 | 📌 [Rotary Embeddings (RopE) is one of the Fundamental Building Blocks of LlaMA-2 Implementation](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/RoPE-As-Implemented-in-LlaMa-Source-Code.ipynb)|
 | 📌 [Chat Templates in HuggingFace](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/apply_chat_template.ipynb)|
 | 📌 [How is Mixtral 8x7B is a dense 47Bn param model](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/MOE-Mixture-of-Experts/Mixtral_8x7B_MoE_Why_47Bn_param_by_Shared_Param.md)|
+| 📌 [The concept of **validation log perplexity** in LLM training - a note on fundamentals.](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Validation_log_perplexity.md)|
 
 
 
