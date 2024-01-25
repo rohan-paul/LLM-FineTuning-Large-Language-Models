@@ -1,8 +1,6 @@
-# Multiple LLM (Large Language Models) FineTuning Projects
+# LLM (Large Language Models) FineTuning Projects and notes on common practical techniques
 
-## For almost all of these I have detailed video in my [YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
-
-[yt_cover]: /assets/Youtube_Cover.png
+[yt_cover]: /assets/devil2.png
 
 [![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos)
 
