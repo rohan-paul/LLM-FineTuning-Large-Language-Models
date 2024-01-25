@@ -59,6 +59,7 @@
 | 📌 [How is Mixtral 8x7B is a dense 47Bn param model](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/MOE-Mixture-of-Experts/Mixtral_8x7B_MoE_Why_47Bn_param_by_Shared_Param.md)|
 | 📌 [The concept of **validation log perplexity** in LLM training - a note on fundamentals.](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Validation_log_perplexity.md)|
 | 📌 [Why we need to identify `target_layers` for LoRA/QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/targets_layers_in_peft_and_meaning_of_Rank_of_a_Matrix.ipynb)|
+| 📌 [Evaluate Token per sec](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Evaluate_token_per_sec.ipynb)|
 
 
 
