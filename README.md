@@ -60,6 +60,7 @@
 | 📌 [The concept of **validation log perplexity** in LLM training - a note on fundamentals.](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Validation_log_perplexity.md)|
 | 📌 [Why we need to identify `target_layers` for LoRA/QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/targets_layers_in_peft_and_meaning_of_Rank_of_a_Matrix.ipynb)|
 | 📌 [Evaluate Token per sec](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Evaluate_token_per_sec.ipynb)|
+| 📌 [traversing through nested attributes (or sub-modules) of a PyTorch module](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Traverse_through_sub-modules_of_PyTorch_Model.ipynb)|
 
 
 
