@@ -62,6 +62,7 @@
 | 📌 [Evaluate Token per sec](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Evaluate_token_per_sec.ipynb)|
 | 📌 [traversing through nested attributes (or sub-modules) of a PyTorch module](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Traverse_through_sub-modules_of_PyTorch_Model.ipynb)|
 | 📌 [Implementation of Sparse Mixtures-of-Experts layer in PyTorch from Mistral Official Repo](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/MoE_implementation_Mistral_official_Repo.ipynb)|
+| 📌 [Util method to extract a specific token's representation from the last hidden states of a transformer model. ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Select_last_meaningful_token_from_each_sequence.ipynb)|
 
 
 
