@@ -65,7 +65,8 @@
 | 📌 [Implementation of Sparse Mixtures-of-Experts layer in PyTorch from Mistral Official Repo](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/MoE_implementation_Mistral_official_Repo.ipynb)|
 | 📌 [Util method to extract a specific token's representation from the last hidden states of a transformer model.](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Select_last_meaningful_token_from_each_sequence.ipynb)|
 | 📌 [Convert PyTorch model's parameters and tensors to half-precision floating-point format](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Convert_Pytorch_model_to_half_precision.ipynb)|
-| 📌 [Quantizing 🤗 Transformers models with the GPTQ method](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantizing_Transformers_with_GPTQn.ipynb)|
+| 📌 [Quantizing 🤗 Transformers models with the GPTQ method](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantizing_Transformers_with_GPTQ.ipynb)|
+| 📌 [Quantize Mixtral-8x7B so it can run in 24GB GPU](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantize_mixtral-instruct-awq_in_so_it_can_run_in_24GB.ipynb)|
 
 
 
