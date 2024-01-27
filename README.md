@@ -13,10 +13,11 @@
 
 [logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
+
 ### Fine-tuning LLM (and YouTube Video Explanations)
 
-| Notebook | YouTube_Video |
-| -------- | ------------- |
+| Notebook | 🟠 **YouTube Video** 🟠 |
+| -------- | ---------------------- |
 | [CodeLLaMA-34B - Conversational Agent ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/CodeLLaMA_34B_Conversation_with_Streamlit.py)                                              | [![Youtube Link][logo]](https://www.youtube.com/watch?v=815NpXvniIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&ab_channel=Rohan-Paul-AI) |
 | [Inference Yarn-Llama-2-13b-128k with KV Cache to answer quiz on very long textbook](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Inference_Yarn-Llama-2-13b-128k_Github.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=RYTOQERqVsg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=14&ab_channel=Rohan-Paul-AI)|
 | [Mistral 7B FineTuning with_PEFT and QLORA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mistral_FineTuning_with_PEFT_and_QLORA.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=6DGYj1EEWOw&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=13&ab_channel=Rohan-Paul-AI)|
@@ -64,6 +65,7 @@
 | 📌 [Implementation of Sparse Mixtures-of-Experts layer in PyTorch from Mistral Official Repo](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/MoE_implementation_Mistral_official_Repo.ipynb)|
 | 📌 [Util method to extract a specific token's representation from the last hidden states of a transformer model.](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Select_last_meaningful_token_from_each_sequence.ipynb)|
 | 📌 [Convert PyTorch model's parameters and tensors to half-precision floating-point format](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Convert_Pytorch_model_to_half_precision.ipynb)|
+| 📌 [Quantizing 🤗 Transformers models with the GPTQ method](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantizing_Transformers_with_GPTQn.ipynb)|
 
 
 
