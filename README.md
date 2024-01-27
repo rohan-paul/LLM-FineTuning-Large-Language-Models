@@ -67,6 +67,7 @@
 | 📌 [Convert PyTorch model's parameters and tensors to half-precision floating-point format](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Convert_Pytorch_model_to_half_precision.ipynb)|
 | 📌 [Quantizing 🤗 Transformers models with the GPTQ method](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantizing_Transformers_with_GPTQ.ipynb)|
 | 📌 [Quantize Mixtral-8x7B so it can run in 24GB GPU](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/Quantize_mixtral-instruct-awq_in_so_it_can_run_in_24GB.ipynb)|
+| 📌 [What is GGML or GGUF in the world of Large Language Models ?](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/LLM_Techniques_and_utils/GGUF_GGML_GPTQ-basics.md)|
 
 
 
