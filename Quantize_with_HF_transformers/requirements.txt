@@ -1,0 +1,6 @@
+torch
+auto-gptq
+transformers
+sentencepiece
+protobuf
+optimum

@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#011d79"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true
+}

@@ -1,0 +1,6 @@
+accelerate
+auto-gptq
+trl
+peft
+transformers
+optimum
