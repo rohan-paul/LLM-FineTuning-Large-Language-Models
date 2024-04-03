@@ -32,6 +32,7 @@
 
 | Notebook | Colab |
 | -------- | ------------- |
+| 📌 [Jamba_Finetuning_Colab-Pro](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/tinyllama_fine-tuning_Taylor_Swift.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Jamba_Finetuning_Colab-Pro.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mixtral Chatbot with Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)|
 | 📌 [togetherai api to run Mixtral](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/togetherai-api-with_Mixtral.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
