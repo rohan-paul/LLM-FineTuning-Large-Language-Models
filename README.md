@@ -32,6 +32,7 @@
 
 | Notebook | Colab |
 | -------- | ------------- |
+| 📌 [Gemma_2b_finetuning_ORPO](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/gemma-2b_ORPO_FineTuning/v2_Colab_Gemma_2b_orpo.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/gemma-2b_ORPO_FineTuning/v2_Colab_Gemma_2b_orpo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Jamba_Finetuning_Colab-Pro](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/tinyllama_fine-tuning_Taylor_Swift.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Jamba_Finetuning_Colab-Pro.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Finetune codellama-34B with QLoRA](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb)|<a href="https://colab.research.google.com/github/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Finetune_codellama-34B-with-QLoRA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 | 📌 [Mixtral Chatbot with Gradio](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Mixtral_Chatbot_with_Gradio)|
