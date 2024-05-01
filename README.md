@@ -16,7 +16,7 @@
 
 ### Fine-tuning LLM (and YouTube Video Explanations)
 
-| Notebook | 🟠 **YouTube Video** 🟠 |
+| Notebook | 🟠 **YouTube Video**|
 | -------- | ---------------------- |
 | [Llama-3 Finetuning on custom dataset with unsloth](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/Llama-3_Finetuning_on_custom_dataset_with_unsloth.ipynb) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=AmVEGPS9JIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=25&ab_channel=Rohan-Paul-AI) |
 | [CodeLLaMA-34B - Conversational Agent ](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/CodeLLaMA_34B_Conversation_with_Streamlit.py) | [![Youtube Link][logo]](https://www.youtube.com/watch?v=815NpXvniIg&list=PLxqBkZuBynVTzqUQCQFgetR97y1X_1uCI&index=16&ab_channel=Rohan-Paul-AI) |
