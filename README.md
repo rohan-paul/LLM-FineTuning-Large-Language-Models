@@ -1,17 +1,13 @@
 # LLM (Large Language Models) FineTuning Projects and notes on common practical techniques
 
-![](/assets/devil2.png)
+# [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-### Find me here..
+## [📚 I write daily for my 112K+ readers on actionable AI developments. Get a 1300+ page Python book as soon as you subscribing (its FREE) ↓↓)](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new)
 
-- 🐦 TWITTER: https://twitter.com/rohanpaul_ai
-- 🟠 YouTube: https://www.youtube.com/@RohanPaul-AI/featured
-- 👨🏻‍💼 LINKEDIN: https://www.linkedin.com/in/rohan-paul-b27285129/
-- ​👨‍🔧​ KAGGLE: https://www.kaggle.com/paulrohan2020
+[logo]: https://github.com/rohan-paul/rohan-paul/blob/master/assets/newsletter_rohan.png
 
----
+[![Rohan's Newsletter][logo]](https://www.rohan-paul.com/) &nbsp;
 
-[logo]: https://raw.githubusercontent.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-Youtube-Channel/master/assets/yt_logo.png
 
 
 ### Fine-tuning LLM (and YouTube Video Explanations)
